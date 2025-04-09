@@ -92,16 +92,6 @@ However, this model assumes no air resistance and flat terrain, which is often n
 
 To calculate and visualize the range as a function of the angle of projection, we can use Python. Below is the Python code to generate the graph.
 
-### **Steps to Run the Python Code:**
-1. Install Python on your computer from [python.org](https://www.python.org/downloads/).
-2. Install the necessary libraries:
-    - Open your terminal (Command Prompt or PowerShell) and run:
-      ```
-      pip install numpy matplotlib
-      ```
-3. Create a Python file (e.g., `projectile_motion.py`) and paste the code below.
-4. Run the Python file to generate the graph.
-
 ### **Python Code:**
 
 ```python
